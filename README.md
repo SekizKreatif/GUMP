@@ -11,7 +11,7 @@ GUMP is a standalone PHP data validation and filtering class that makes validati
 #### Install with composer
 
 ```
-composer require wixel/gump
+composer require sekizkreatif/gump-php8.0
 ```
 
 ### Short format example for validations
